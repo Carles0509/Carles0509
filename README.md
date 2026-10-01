@@ -8,4 +8,7 @@ What I'm up to
 - Building small Python projects and getting stronger in Java
 
 Stack
-Python · Java · Excel / VBA · Git & GitHub
+- Python
+- Java
+- Excel / VBA
+- Git & GitHub
