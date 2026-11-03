@@ -10,7 +10,7 @@ Systems Engineering student at Universidad de Lima. I work mostly in Python and 
 
 ## Stack
  
-Python · Java · Excel / VBA · Git & GitHub
+Python · Java · Excel / VBA · Git
  
 ## Contact
  
